@@ -77,18 +77,18 @@ export default function App() {
       case "socials":
         newOutput = [
           ...newOutput,
-          <p> {">"} My LinkedIn is: <a href="linkedin.com/in/abdlaqeel"target="_blank">LinkedIn</a></p>,
+          <p> {">"} My LinkedIn is: <a href="https://www.linkedin.com/in/abdlaqeel"target="_blank">LinkedIn</a></p>,
           <p> My GitHub is: <a href="https://www.github.com/abdlaqeel"target="_blank">GitHub</a></p>,
-         <p> My Resume Link: <a href="linkedin.com/in/abdlaqeel"target="_blank">Resume</a></p>
+         <p> My Resume Link: <a href="https://www.linkedin.com/in/abdlaqeel"target="_blank">Resume</a></p>
         ];
         break;
 
         case "Socials":
         newOutput = [
           ...newOutput,
-          <p> {">"} My LinkedIn is: <a href="linkedin.com/in/abdlaqeel"target="_blank">LinkedIn</a></p>,
+          <p> {">"} My LinkedIn is: <a href="https://www.linkedin.com/in/abdlaqeel"target="_blank">LinkedIn</a></p>,
           <p> My GitHub is: <a href="https://www.github.com/abdlaqeel"target="_blank">GitHub</a></p>,
-         <p> My Resume Link: <a href="linkedin.com/in/abdlaqeel"target="_blank">Resume</a></p>
+         <p> My Resume Link: <a href="https://www.linkedin.com/in/abdlaqeel"target="_blank">Resume</a></p>
         ];
         break;
 
