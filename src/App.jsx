@@ -34,14 +34,41 @@ export default function App() {
         ];
         break;
 
+        case "Ls":
+        newOutput = [
+          ...newOutput,
+          <p> {">"} List of Available Commands:</p>,
+          <p>$ clear = Clear Command Line</p>,
+          <p>$ about = About Author</p>,
+          <p>$ socials = Links to my socials</p>,
+          <p>$ info = Information about this project</p>,
+          <p>$ upcoming = To see upcoming updates I am currently working on...</p>,
+        ];
+        break;
+
       case "clear":
         newOutput = [];
         break;
+
+        case "Clear":
+        newOutput = [];
+        break;
+
       case "about":
         newOutput = [
           ...newOutput,
           <p> {">"} Hi, my name is Abdullah 👋</p>,
-          <p>I am a 3rd Year student of Memorial University of Newfoundland 👨‍🏛 </p>,
+          <p>I am a 3rd Year CS student of Memorial University of Newfoundland 👨‍🏛 </p>,
+          <p>I am currently looking for a work term 👨‍💻</p>,
+          <p>Type 'socials' to reach me and 'resume' for my complete resume 📫 </p>,
+        ];
+        break;
+
+        case "About":
+        newOutput = [
+          ...newOutput,
+          <p> {">"} Hi, my name is Abdullah 👋</p>,
+          <p>I am a 3rd Year CS student of Memorial University of Newfoundland 👨‍🏛 </p>,
           <p>I am currently looking for a work term 👨‍💻</p>,
           <p>Type 'socials' to reach me and 'resume' for my complete resume 📫 </p>,
         ];
@@ -74,14 +101,36 @@ export default function App() {
             ];
             break;
 
+            case "Info":
+            newOutput = [
+              ...newOutput,
+              <p>I thought about this project once while disabling my Mac's SIP. The terminal is inspired by different resources I found over the internet.</p>,
+              <p> This is my first time using ReactJS to create a web application and I plan to add more features on the website as I learn more and more about</p>,
+             <p> JavaScript, ReactJS and React</p>
+            ];
+            break;
+
         case "upcoming":
         newOutput = [
           ...newOutput,
-          <p> {">"} I'm currently working to implement:</p>,
+          <br />, <p><h3> {">"} I'm currently working to implement:</h3></p>,
           <p> {"-"}A delayed auto-typer</p>,
           <p> {"-"}UI simulating macOS</p>,
           <p> {"-"}Blinking pointer</p>,
           <p> {"-"}Progress Bar</p>,
+          <p> {"-"}Easter Eggs</p>,
+        ];
+        break;
+
+        case "Upcoming":
+        newOutput = [
+          ...newOutput,
+          <br />, <p><h3> {">"} I'm currently working to implement:</h3></p>,
+          <p> {"-"}A delayed auto-typer</p>,
+          <p> {"-"}UI simulating macOS</p>,
+          <p> {"-"}Blinking pointer</p>,
+          <p> {"-"}Progress Bar</p>,
+          <p> {"-"}Better Responsiveness</p>,
           <p> {"-"}Easter Eggs</p>,
         ];
         break;
