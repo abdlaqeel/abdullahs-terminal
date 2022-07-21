@@ -81,7 +81,8 @@ export default function App() {
           ...newOutput,
           <p> {">"} My LinkedIn is: <a href="https://www.linkedin.com/in/abdlaqeel"target="_blank">LinkedIn</a></p>,
           <p> My GitHub is: <a href="https://www.github.com/abdlaqeel"target="_blank">GitHub</a></p>,
-         <p> My Resume Link: <a href="https://www.linkedin.com/in/abdlaqeel"target="_blank">Resume</a></p>
+         <p> My Resume Link: <a href="https://github.com/abdlaqeel/abdlaqeel/raw/main/Abdullah%20Resume.pdf"target="_blank">Resume</a></p>,
+         <p> <a href="https://abdlaqeel.github.io/portfolio/index.html" target="_blank">My Personal Website</a></p>
         ];
         break;
 
@@ -90,7 +91,8 @@ export default function App() {
           ...newOutput,
           <p> {">"} My LinkedIn is: <a href="https://www.linkedin.com/in/abdlaqeel"target="_blank">LinkedIn</a></p>,
           <p> My GitHub is: <a href="https://www.github.com/abdlaqeel"target="_blank">GitHub</a></p>,
-         <p> My Resume Link: <a href="https://www.linkedin.com/in/abdlaqeel"target="_blank">Resume</a></p>
+         <p> My Resume Link: <a href="https://github.com/abdlaqeel/abdlaqeel/raw/main/Abdullah%20Resume.pdf"target="_blank">Resume</a></p>,
+         <p> <a href="https://abdlaqeel.github.io/portfolio/index.html" target="_blank">My Personal Website</a></p>
         ];
         break;
 
@@ -101,7 +103,7 @@ export default function App() {
           <p> {">"}<a href="https://github.com/abdlaqeel/MindTheGapGame_Java"target="_blank">Mind the Gap</a></p>,
           <p> {">"}<a href="https://github.com/abdlaqeel/COMP2005-GroupProject"target="_blank">King Domino Game Group Project</a></p>,
          <p> {">"}<a href="https://github.com/abdlaqeel/hangman_python"target="_blank">Hangman</a></p>,
-         <p> {">"}<a href="https://github.com/abdlaqeel" target="_blank">My Personal Website</a></p>
+         <p> {">"}<a href="https://abdlaqeel.github.io/portfolio/index.html" target="_blank">My Personal Website</a></p>
         ];
         break;
 
@@ -112,7 +114,7 @@ export default function App() {
           <p> {">"}<a href="https://github.com/abdlaqeel/MindTheGapGame_Java"target="_blank">Mind the Gap</a></p>,
           <p> {">"}<a href="https://github.com/abdlaqeel/COMP2005-GroupProject"target="_blank">King Domino Game Group Project</a></p>,
          <p> {">"}<a href="https://github.com/abdlaqeel/hangman_python"target="_blank">Hangman</a></p>,
-         <p> {">"}<a href="https://github.com/abdlaqeel" target="_blank">My Personal Website</a></p>
+         <p> {">"}<a href="https://abdlaqeel.github.io/portfolio/index.html" target="_blank">My Personal Website</a></p>
         ];
         break;
 
