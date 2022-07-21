@@ -10,7 +10,14 @@
   overflow: auto;
 }
 
-.App h1{
+.App a{
+  margin: 0;
+  text-decoration: none;
+  color: green;
+}
+.App p{
+  margin: 0;
+  text-decoration: none;
 }
 
 input{

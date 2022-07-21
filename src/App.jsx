@@ -189,6 +189,7 @@ export default function App() {
       <br />
       
       version 0.1,  last login: {date}
+      <p><a href="https://www.github.com/abdlaqeel/abdullahs-terminal" target="_blank">Documentation</a></p>
       <br />
       visitor@Abdullah.net ~ $:
       <input
