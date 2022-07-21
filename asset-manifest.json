@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/abdullahs-terminal/static/css/main.1a466727.css",
-    "main.js": "/abdullahs-terminal/static/js/main.91659cbb.js",
+    "main.js": "/abdullahs-terminal/static/js/main.d0b6a67b.js",
     "static/js/787.c76c2b47.chunk.js": "/abdullahs-terminal/static/js/787.c76c2b47.chunk.js",
     "index.html": "/abdullahs-terminal/index.html",
     "main.1a466727.css.map": "/abdullahs-terminal/static/css/main.1a466727.css.map",
-    "main.91659cbb.js.map": "/abdullahs-terminal/static/js/main.91659cbb.js.map",
+    "main.d0b6a67b.js.map": "/abdullahs-terminal/static/js/main.d0b6a67b.js.map",
     "787.c76c2b47.chunk.js.map": "/abdullahs-terminal/static/js/787.c76c2b47.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1a466727.css",
-    "static/js/main.91659cbb.js"
+    "static/js/main.d0b6a67b.js"
   ]
 }
