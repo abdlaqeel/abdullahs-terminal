@@ -21,6 +21,8 @@ https://abdlaqeel.github.io/abdullahs-terminal
 
 ``socials`` : links to my socials
 
+``projects`` : links to my other projects
+
 ``info`` : information and documentation of this project
 
 ``upcoming`` : to see upcoming updates I am currently working on...
